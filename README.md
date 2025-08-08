@@ -19,8 +19,8 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
+- [d ] Fork the project to your github account
+- [d ] Clone the project to your computer
 - [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [ ] Initialize playwright and install project packages
   - [ ] Use `npm i` to install packages
